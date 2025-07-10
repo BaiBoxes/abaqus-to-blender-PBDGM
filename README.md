@@ -14,8 +14,19 @@ This tool converts post-processing models from ABAQUS—including dynamic analys
 ![PBDGM Step A](image/introduce/PBDGM-a.png)
 ![PBDGM Step B](image/introduce/PBDGM-b.png)
 
-### PBDGM 用于测试算法\生成数据集
+### PBDGM 用于测试算法/生成数据集
 
 ![PBDGM Step C](image/introduce/PBDGM-c.png)
 ![PBDGM Step D](image/introduce/PBDGM-d.png)
 ![PBDGM Step E](image/introduce/PBDGM-e.png)
+
+## 👥 贡献
+
+> **朱前坤** — 兰州理工大学土木工程学院/兰州理工大学防震减灾研究所
+> **白雪松** — 兰州理工大学土木工程学院
+> **谢辰辉** — 兰州理工大学土木工程学院
+> **王军营** — 兰州理工大学土木工程学院
+
+## 参考
+
+[1] Bai X, Zhu Q, Wang X, et al. Modal-Weighted Super-Sensitive phase optical flow method for structural Micro-Vibration modal identification[J]. Mechanical Systems and Signal Processing, 2025, 224: 112095.
