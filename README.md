@@ -23,8 +23,11 @@ This tool converts post-processing models from ABAQUS—including dynamic analys
 ## 👥 贡献
 
 > **朱前坤** — 兰州理工大学土木工程学院/兰州理工大学防震减灾研究所
+> 
 > **白雪松** — 兰州理工大学土木工程学院
+> 
 > **谢辰辉** — 兰州理工大学土木工程学院
+> 
 > **王军营** — 兰州理工大学土木工程学院
 
 ## 参考
